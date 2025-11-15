@@ -1,0 +1,58 @@
+{
+  "full_name": "John Smith",
+  "email": "john.smith@example.com",
+  "phone": "+1-555-123-4567",
+  "location": "London, UK",
+  "headline": "Senior Data Engineer | Cloud & Analytics",
+  "summary": "Senior data engineer with 8+ years of experience designing and building data platforms, ETL pipelines, and analytics solutions on Azure and AWS.",
+  "experience": [
+    {
+      "title": "Senior Data Engineer",
+      "company": "Acme Analytics",
+      "location": "London, UK",
+      "start_date": "2020-04-01",
+      "end_date": "present",
+      "responsibilities": [
+        "Design and implement batch and streaming data pipelines using Python and SQL.",
+        "Build and maintain data models and marts to support BI and advanced analytics.",
+        "Collaborate with data scientists to productionize ML models."
+      ]
+    },
+    {
+      "title": "Data Engineer",
+      "company": "Global Retail Corp",
+      "location": "Manchester, UK",
+      "start_date": "2016-01-01",
+      "end_date": "2020-03-31",
+      "responsibilities": [
+        "Develop ETL workflows using Apache Airflow and SQL.",
+        "Optimize warehouse queries and performance on Snowflake.",
+        "Work with stakeholders to define data requirements."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "BSc Computer Science",
+      "institution": "University of Manchester",
+      "location": "Manchester, UK",
+      "start_date": "2011-09-01",
+      "end_date": "2014-06-30"
+    }
+  ],
+  "skills": [
+    "Python",
+    "SQL",
+    "Apache Airflow",
+    "Snowflake",
+    "Azure Data Factory",
+    "Data Modeling",
+    "ETL Pipelines",
+    "Docker",
+    "Git"
+  ],
+  "certifications": [
+    "AWS Certified Data Analytics – Specialty",
+    "Microsoft Certified: Azure Data Engineer Associate"
+  ]
+}

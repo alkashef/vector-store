@@ -1,0 +1,50 @@
+{
+  "classes": [
+    {
+      "name": "CV",
+      "description": "Candidate curriculum vitae records",
+      "vectorizer_config": {
+        "text2vec_openai": {
+          "model": "text-embedding-3-small",
+          "type": "text"
+        }
+      },
+      "properties": [
+        { "name": "full_name", "data_type": ["text"] },
+        { "name": "email", "data_type": ["text"] },
+        { "name": "phone", "data_type": ["text"] },
+        { "name": "location", "data_type": ["text"] },
+        { "name": "headline", "data_type": ["text"] },
+        { "name": "summary", "data_type": ["text"] },
+        { "name": "experience", "data_type": ["text[]"] },
+        { "name": "education", "data_type": ["text[]"] },
+        { "name": "skills", "data_type": ["text[]"] },
+        { "name": "certifications", "data_type": ["text[]"] }
+      ]
+    },
+    {
+      "name": "JobDescription",
+      "description": "Job descriptions for open roles",
+      "vectorizer_config": {
+        "text2vec_openai": {
+          "model": "text-embedding-3-small",
+          "type": "text"
+        }
+      },
+      "properties": [
+        { "name": "job_title", "data_type": ["text"] },
+        { "name": "company_name", "data_type": ["text"] },
+        { "name": "location", "data_type": ["text"] },
+        { "name": "employment_type", "data_type": ["text"] },
+        { "name": "department", "data_type": ["text"] },
+        { "name": "summary", "data_type": ["text"] },
+        { "name": "responsibilities", "data_type": ["text[]"] },
+        { "name": "requirements_must_have", "data_type": ["text[]"] },
+        { "name": "requirements_nice_to_have", "data_type": ["text[]"] },
+        { "name": "skills", "data_type": ["text[]"] },
+        { "name": "salary_min_gbp", "data_type": ["number"] },
+        { "name": "salary_max_gbp", "data_type": ["number"] }
+      ]
+    }
+  ]
+}

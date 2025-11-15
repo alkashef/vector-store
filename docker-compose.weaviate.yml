@@ -1,0 +1,42 @@
+version: "3.8"
+
+services:
+  weaviate:
+    image: cr.weaviate.io/semitechnologies/weaviate:1.34.0
+    container_name: ragent_weaviate
+    restart: unless-stopped
+
+    ports:
+      - "8080:8080"    # HTTP
+      - "50051:50051"  # gRPC (for weaviate-client v4)
+
+    environment:
+      # ---- Access / security (dev only) ----
+      AUTHENTICATION_ANONYMOUS_ACCESS_ENABLED: "true"
+
+      # ---- Persistence ----
+      PERSISTENCE_DATA_PATH: /var/lib/weaviate
+
+      # ---- Query limits ----
+      # Default limit if you don't specify "limit:" in queries
+      QUERY_DEFAULTS_LIMIT: "50"
+      # Hard ceiling on results per query
+      QUERY_MAXIMUM_RESULTS: "200"
+
+      # ---- Modules & vectorization ----
+      # Use OpenAI as the default vectorizer
+      DEFAULT_VECTORIZER_MODULE: "text2vec-openai"
+      ENABLE_MODULES: "text2vec-openai"
+
+      # gRPC port (must match exposed port)
+      WEAVIATE_GRPC_PORT: "50051"
+
+      # ---- OpenAI configuration for text2vec-openai ----
+      # You can keep these in a .env file
+      OPENAI_APIKEY: "${OPENAI_APIKEY}"
+      # Optional: override base URL or model if needed
+      OPENAI_API_BASEURL: "${OPENAI_API_BASEURL:-https://api.openai.com/v1}"
+      OPENAI_API_EMBEDDING_MODEL: "${OPENAI_API_EMBEDDING_MODEL:-text-embedding-3-small}"
+
+    volumes:
+      - ./store/weaviate_data:/var/lib/weaviate

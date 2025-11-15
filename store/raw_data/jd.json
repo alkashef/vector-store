@@ -1,0 +1,39 @@
+{
+  "job_title": "Senior Data Engineer",
+  "company_name": "TechCloud Solutions",
+  "location": "Hybrid – London, UK",
+  "employment_type": "Full-time",
+  "department": "Data & Analytics",
+  "summary": "We are looking for a Senior Data Engineer to design, build, and maintain scalable data platforms and pipelines to support analytics and data products.",
+  "responsibilities": [
+    "Design, build, and maintain robust batch and streaming data pipelines.",
+    "Model and optimize data warehouses and data marts for BI and ML use cases.",
+    "Collaborate with data scientists, analysts, and product teams to deliver data solutions.",
+    "Ensure data quality, governance, and documentation."
+  ],
+  "requirements_must_have": [
+    "5+ years of experience as a data engineer or similar role.",
+    "Strong programming skills in Python and SQL.",
+    "Hands-on experience with cloud data platforms (Azure, AWS, or GCP).",
+    "Experience with modern ETL/ELT tools and orchestration frameworks (e.g., Airflow, ADF)."
+  ],
+  "requirements_nice_to_have": [
+    "Experience with Snowflake or BigQuery.",
+    "Familiarity with ML pipelines and MLOps.",
+    "Experience working in an Agile environment."
+  ],
+  "skills": [
+    "Python",
+    "SQL",
+    "Airflow",
+    "Azure",
+    "AWS",
+    "Data Modeling",
+    "ETL / ELT",
+    "Data Warehousing"
+  ],
+  "salary_range_gbp": {
+    "min": 80000,
+    "max": 95000
+  }
+}
