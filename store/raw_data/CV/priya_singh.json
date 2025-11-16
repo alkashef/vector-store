@@ -1,0 +1,58 @@
+{
+    "full_name": "Priya Singh",
+    "email": "priya.singh@example.com",
+    "phone": "+91-22-555-8901",
+    "location": "Mumbai, India",
+    "headline": "Business Analyst | Data & Process Improvement",
+    "summary": "Business analyst with 3+ years of experience in data analysis, process optimization, and stakeholder management for IT and finance sectors.",
+    "experience": [
+        {
+            "title": "Business Analyst",
+            "company": "TechFin Solutions",
+            "location": "Mumbai, India",
+            "start_date": "2022-01-01",
+            "end_date": "present",
+            "responsibilities": [
+                "Analyze business processes and recommend improvements.",
+                "Gather and document requirements from stakeholders.",
+                "Prepare reports and dashboards for management."
+            ]
+        },
+        {
+            "title": "Data Analyst",
+            "company": "Insight Analytics",
+            "location": "Pune, India",
+            "start_date": "2020-06-01",
+            "end_date": "2021-12-31",
+            "responsibilities": [
+                "Clean and analyze large datasets using Python and SQL.",
+                "Visualize data trends and KPIs.",
+                "Support project teams with ad hoc analysis."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "BSc Statistics",
+            "institution": "University of Mumbai",
+            "location": "Mumbai, India",
+            "start_date": "2017-07-01",
+            "end_date": "2020-05-31"
+        }
+    ],
+    "skills": [
+        "Data Analysis",
+        "Process Improvement",
+        "Stakeholder Management",
+        "SQL",
+        "Python",
+        "Reporting",
+        "Dashboards",
+        "Excel",
+        "Requirements Gathering"
+    ],
+    "certifications": [
+        "Certified Business Analysis Professional (CBAP)",
+        "Tableau Desktop Specialist"
+    ]
+}

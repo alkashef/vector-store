@@ -1,0 +1,58 @@
+{
+    "full_name": "David Miller",
+    "email": "david.miller@example.com",
+    "phone": "+61-2-555-0123",
+    "location": "Sydney, Australia",
+    "headline": "Teacher | Secondary Education & Curriculum Design",
+    "summary": "Passionate educator with 15+ years of experience teaching mathematics and designing curricula for secondary schools.",
+    "experience": [
+        {
+            "title": "Mathematics Teacher",
+            "company": "Sydney Grammar School",
+            "location": "Sydney, Australia",
+            "start_date": "2010-02-01",
+            "end_date": "present",
+            "responsibilities": [
+                "Teach mathematics to grades 7-12.",
+                "Develop lesson plans and assessments.",
+                "Mentor new teachers and lead math club."
+            ]
+        },
+        {
+            "title": "Curriculum Designer",
+            "company": "EduTech Solutions",
+            "location": "Melbourne, Australia",
+            "start_date": "2007-01-01",
+            "end_date": "2009-12-31",
+            "responsibilities": [
+                "Design math curriculum for secondary schools.",
+                "Train teachers on new educational technologies.",
+                "Evaluate and update course materials."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "BEd Secondary Education",
+            "institution": "University of Sydney",
+            "location": "Sydney, Australia",
+            "start_date": "2002-03-01",
+            "end_date": "2006-11-30"
+        }
+    ],
+    "skills": [
+        "Teaching",
+        "Curriculum Design",
+        "Assessment",
+        "Mentoring",
+        "Mathematics",
+        "Lesson Planning",
+        "Educational Technology",
+        "Classroom Management",
+        "Team Leadership"
+    ],
+    "certifications": [
+        "Certified Teacher (Australia)",
+        "Google Certified Educator"
+    ]
+}

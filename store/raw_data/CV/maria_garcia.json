@@ -1,0 +1,58 @@
+{
+    "full_name": "Maria Garcia",
+    "email": "maria.garcia@example.com",
+    "phone": "+34-91-555-4567",
+    "location": "Madrid, Spain",
+    "headline": "Software Developer | Web & Mobile Apps",
+    "summary": "Full-stack developer with 4+ years of experience building scalable web and mobile applications using modern frameworks.",
+    "experience": [
+        {
+            "title": "Software Developer",
+            "company": "Iberia Digital",
+            "location": "Madrid, Spain",
+            "start_date": "2022-02-01",
+            "end_date": "present",
+            "responsibilities": [
+                "Develop and maintain web applications using React and Node.js.",
+                "Implement REST APIs and integrate third-party services.",
+                "Collaborate with designers and QA for product releases."
+            ]
+        },
+        {
+            "title": "Junior Developer",
+            "company": "AppWorks",
+            "location": "Barcelona, Spain",
+            "start_date": "2020-01-01",
+            "end_date": "2022-01-31",
+            "responsibilities": [
+                "Build mobile apps with Flutter and Firebase.",
+                "Write unit and integration tests.",
+                "Participate in code reviews and agile sprints."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "BSc Software Engineering",
+            "institution": "Universidad Politécnica de Madrid",
+            "location": "Madrid, Spain",
+            "start_date": "2016-09-01",
+            "end_date": "2020-06-30"
+        }
+    ],
+    "skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Flutter",
+        "Firebase",
+        "REST APIs",
+        "Unit Testing",
+        "Agile",
+        "Git"
+    ],
+    "certifications": [
+        "Certified Scrum Master (CSM)",
+        "AWS Certified Developer – Associate"
+    ]
+}

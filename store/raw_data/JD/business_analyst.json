@@ -1,0 +1,38 @@
+{
+    "job_title": "Business Analyst",
+    "company_name": "TechFin Solutions",
+    "location": "Hybrid – Mumbai, India",
+    "employment_type": "Full-time",
+    "department": "Business Analysis",
+    "summary": "TechFin Solutions is hiring a Business Analyst to analyze data, optimize processes, and support project delivery for IT and finance clients.",
+    "responsibilities": [
+        "Analyze business processes and recommend improvements.",
+        "Gather and document requirements from stakeholders.",
+        "Prepare reports and dashboards for management.",
+        "Support project teams with ad hoc analysis."
+    ],
+    "requirements_must_have": [
+        "Bachelor's degree in Business, IT, or related field.",
+        "2+ years of experience as a business analyst or similar role.",
+        "Proficiency in SQL and Excel.",
+        "Strong analytical and communication skills."
+    ],
+    "requirements_nice_to_have": [
+        "CBAP or Tableau certification.",
+        "Experience with data visualization tools.",
+        "Fluency in Hindi and English."
+    ],
+    "skills": [
+        "Data Analysis",
+        "Process Improvement",
+        "Stakeholder Management",
+        "SQL",
+        "Reporting",
+        "Dashboards",
+        "Excel"
+    ],
+    "salary_range_gbp": {
+        "min": 30000,
+        "max": 40000
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "job_title": "Operations Manager",
+    "company_name": "LogiPro Solutions",
+    "location": "On-site – Dubai, UAE",
+    "employment_type": "Full-time",
+    "department": "Operations",
+    "summary": "We are looking for an Operations Manager to oversee logistics, supply chain, and process improvement for our regional operations.",
+    "responsibilities": [
+        "Manage daily logistics and warehouse operations.",
+        "Implement process improvements to increase efficiency.",
+        "Coordinate with vendors and internal teams.",
+        "Monitor KPIs and prepare operational reports."
+    ],
+    "requirements_must_have": [
+        "5+ years of experience in operations or logistics.",
+        "Strong leadership and organizational skills.",
+        "Experience with ERP and supply chain systems.",
+        "Excellent problem-solving abilities."
+    ],
+    "requirements_nice_to_have": [
+        "Lean Six Sigma certification.",
+        "Experience in the Middle East region.",
+        "Fluency in Arabic."
+    ],
+    "skills": [
+        "Logistics",
+        "Supply Chain Management",
+        "Process Improvement",
+        "Vendor Management",
+        "ERP",
+        "Inventory Control",
+        "Team Leadership"
+    ],
+    "salary_range_gbp": {
+        "min": 45000,
+        "max": 60000
+    }
+}

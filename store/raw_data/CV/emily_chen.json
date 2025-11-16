@@ -1,0 +1,58 @@
+{
+    "full_name": "Emily Chen",
+    "email": "emily.chen@example.com",
+    "phone": "+86-10-555-5678",
+    "location": "Beijing, China",
+    "headline": "Legal Counsel | Corporate & Contract Law",
+    "summary": "Corporate lawyer with 7+ years of experience advising multinational companies on contracts, compliance, and M&A.",
+    "experience": [
+        {
+            "title": "Legal Counsel",
+            "company": "SinoGlobal Holdings",
+            "location": "Beijing, China",
+            "start_date": "2019-05-01",
+            "end_date": "present",
+            "responsibilities": [
+                "Draft and review commercial contracts and agreements.",
+                "Advise on regulatory compliance and risk management.",
+                "Support M&A due diligence and negotiations."
+            ]
+        },
+        {
+            "title": "Associate Lawyer",
+            "company": "East Law Partners",
+            "location": "Shanghai, China",
+            "start_date": "2015-08-01",
+            "end_date": "2019-04-30",
+            "responsibilities": [
+                "Assist with litigation and dispute resolution.",
+                "Conduct legal research and draft opinions.",
+                "Support client onboarding and KYC."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "LLB Law",
+            "institution": "Peking University",
+            "location": "Beijing, China",
+            "start_date": "2011-09-01",
+            "end_date": "2015-07-31"
+        }
+    ],
+    "skills": [
+        "Contract Law",
+        "Corporate Law",
+        "Compliance",
+        "Mergers & Acquisitions",
+        "Legal Research",
+        "Negotiation",
+        "Risk Management",
+        "Litigation",
+        "Due Diligence"
+    ],
+    "certifications": [
+        "Bar Admission (China)",
+        "Certified In-House Counsel (CICC)"
+    ]
+}

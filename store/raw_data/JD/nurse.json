@@ -1,0 +1,38 @@
+{
+    "job_title": "Nurse",
+    "company_name": "San Giovanni Hospital",
+    "location": "On-site – Rome, Italy",
+    "employment_type": "Full-time",
+    "department": "Healthcare",
+    "summary": "San Giovanni Hospital is seeking a Nurse to provide patient care, administer medications, and support clinical teams in a hospital setting.",
+    "responsibilities": [
+        "Administer medications and monitor patient vitals.",
+        "Coordinate with doctors and healthcare teams.",
+        "Educate patients and families on care plans.",
+        "Maintain patient records and documentation."
+    ],
+    "requirements_must_have": [
+        "Registered Nurse qualification.",
+        "2+ years of clinical experience.",
+        "Strong teamwork and communication skills.",
+        "Knowledge of infection control protocols."
+    ],
+    "requirements_nice_to_have": [
+        "Basic Life Support (BLS) certification.",
+        "Experience in emergency care.",
+        "Fluency in Italian and English."
+    ],
+    "skills": [
+        "Patient Care",
+        "Clinical Support",
+        "Medication Administration",
+        "Emergency Care",
+        "Teamwork",
+        "Patient Education",
+        "Infection Control"
+    ],
+    "salary_range_gbp": {
+        "min": 25000,
+        "max": 32000
+    }
+}

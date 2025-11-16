@@ -1,0 +1,58 @@
+{
+    "full_name": "Fatima Al-Farsi",
+    "email": "fatima.alfarsi@example.com",
+    "phone": "+971-4-555-9012",
+    "location": "Dubai, UAE",
+    "headline": "Operations Manager | Logistics & Supply Chain",
+    "summary": "Operations manager with 8+ years of experience optimizing logistics, supply chain, and warehouse operations in the Middle East.",
+    "experience": [
+        {
+            "title": "Operations Manager",
+            "company": "Gulf Logistics",
+            "location": "Dubai, UAE",
+            "start_date": "2019-10-01",
+            "end_date": "present",
+            "responsibilities": [
+                "Oversee daily logistics and warehouse operations.",
+                "Implement process improvements to reduce costs.",
+                "Manage vendor relationships and contracts."
+            ]
+        },
+        {
+            "title": "Logistics Coordinator",
+            "company": "Desert Transport",
+            "location": "Abu Dhabi, UAE",
+            "start_date": "2015-03-01",
+            "end_date": "2019-09-30",
+            "responsibilities": [
+                "Coordinate shipments and customs clearance.",
+                "Track inventory and manage stock levels.",
+                "Support ERP implementation and training."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "BBA Logistics & Supply Chain",
+            "institution": "American University in Dubai",
+            "location": "Dubai, UAE",
+            "start_date": "2010-09-01",
+            "end_date": "2014-06-30"
+        }
+    ],
+    "skills": [
+        "Logistics",
+        "Supply Chain Management",
+        "Warehouse Operations",
+        "Process Improvement",
+        "Vendor Management",
+        "ERP",
+        "Inventory Control",
+        "Cost Reduction",
+        "Team Leadership"
+    ],
+    "certifications": [
+        "Certified Supply Chain Professional (CSCP)",
+        "Lean Six Sigma Green Belt"
+    ]
+}

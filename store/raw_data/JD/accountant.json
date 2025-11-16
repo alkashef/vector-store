@@ -1,0 +1,38 @@
+{
+    "job_title": "Accountant",
+    "company_name": "FinTrust Inc.",
+    "location": "On-site – Boston, USA",
+    "employment_type": "Full-time",
+    "department": "Finance",
+    "summary": "FinTrust Inc. is seeking an Accountant to manage financial records, prepare reports, and support audit and tax processes.",
+    "responsibilities": [
+        "Prepare monthly and annual financial statements.",
+        "Reconcile accounts and process payroll.",
+        "Assist with tax preparation and filing.",
+        "Support internal and external audit processes."
+    ],
+    "requirements_must_have": [
+        "Bachelor's degree in Accounting or Finance.",
+        "2+ years of experience in accounting.",
+        "Proficiency with accounting software (e.g., QuickBooks, SAP).",
+        "Strong attention to detail and analytical skills."
+    ],
+    "requirements_nice_to_have": [
+        "CPA or CA certification.",
+        "Experience with multinational companies.",
+        "Advanced Excel skills."
+    ],
+    "skills": [
+        "Financial Reporting",
+        "Budgeting",
+        "Audit",
+        "Excel",
+        "QuickBooks",
+        "Tax Preparation",
+        "Payroll"
+    ],
+    "salary_range_gbp": {
+        "min": 32000,
+        "max": 40000
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "job_title": "Project Manager",
+    "company_name": "Emerald Build Ltd.",
+    "location": "On-site – Dublin, Ireland",
+    "employment_type": "Full-time",
+    "department": "Project Management",
+    "summary": "Emerald Build Ltd. is seeking a Project Manager to lead construction and infrastructure projects from planning to completion.",
+    "responsibilities": [
+        "Oversee project planning, budgeting, and execution.",
+        "Manage cross-functional teams and subcontractors.",
+        "Ensure compliance with safety and quality standards.",
+        "Monitor project timelines and deliverables."
+    ],
+    "requirements_must_have": [
+        "Bachelor's degree in Engineering or related field.",
+        "5+ years of project management experience.",
+        "Strong leadership and organizational skills.",
+        "Experience with project management software."
+    ],
+    "requirements_nice_to_have": [
+        "PMP certification.",
+        "Experience with large-scale infrastructure projects.",
+        "Fluency in German."
+    ],
+    "skills": [
+        "Project Management",
+        "Budgeting",
+        "Team Leadership",
+        "Construction",
+        "Scheduling",
+        "Risk Management",
+        "Quality Assurance"
+    ],
+    "salary_range_gbp": {
+        "min": 50000,
+        "max": 70000
+    }
+}

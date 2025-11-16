@@ -1,0 +1,58 @@
+{
+    "full_name": "Liam O'Brien",
+    "email": "liam.obrien@example.com",
+    "phone": "+353-1-555-7890",
+    "location": "Dublin, Ireland",
+    "headline": "Project Manager | Construction & Infrastructure",
+    "summary": "Project manager with 12+ years of experience leading large-scale construction and infrastructure projects across Europe.",
+    "experience": [
+        {
+            "title": "Senior Project Manager",
+            "company": "Emerald Build Ltd.",
+            "location": "Dublin, Ireland",
+            "start_date": "2017-09-01",
+            "end_date": "present",
+            "responsibilities": [
+                "Oversee project planning, budgeting, and execution.",
+                "Manage cross-functional teams and subcontractors.",
+                "Ensure compliance with safety and quality standards."
+            ]
+        },
+        {
+            "title": "Project Engineer",
+            "company": "EuroInfra",
+            "location": "Berlin, Germany",
+            "start_date": "2012-03-01",
+            "end_date": "2017-08-31",
+            "responsibilities": [
+                "Support site operations and logistics.",
+                "Coordinate with architects and engineers.",
+                "Monitor project timelines and deliverables."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "BEng Civil Engineering",
+            "institution": "Trinity College Dublin",
+            "location": "Dublin, Ireland",
+            "start_date": "2007-09-01",
+            "end_date": "2011-06-30"
+        }
+    ],
+    "skills": [
+        "Project Management",
+        "Budgeting",
+        "Team Leadership",
+        "Construction",
+        "Scheduling",
+        "Risk Management",
+        "Quality Assurance",
+        "AutoCAD",
+        "MS Project"
+    ],
+    "certifications": [
+        "PMP (Project Management Professional)",
+        "Chartered Engineer (CEng)"
+    ]
+}

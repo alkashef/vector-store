@@ -1,0 +1,38 @@
+{
+    "job_title": "Legal Counsel",
+    "company_name": "LexGlobal Partners",
+    "location": "Hybrid – Beijing, China",
+    "employment_type": "Full-time",
+    "department": "Legal",
+    "summary": "LexGlobal Partners seeks a Legal Counsel to provide legal advice, draft contracts, and ensure regulatory compliance for our multinational clients.",
+    "responsibilities": [
+        "Draft and review commercial contracts and agreements.",
+        "Advise on regulatory compliance and risk management.",
+        "Support M&A due diligence and negotiations.",
+        "Conduct legal research and prepare legal opinions."
+    ],
+    "requirements_must_have": [
+        "Law degree and bar admission.",
+        "3+ years of experience in corporate or commercial law.",
+        "Strong analytical and negotiation skills.",
+        "Fluency in English and Mandarin."
+    ],
+    "requirements_nice_to_have": [
+        "Experience with international transactions.",
+        "Familiarity with data privacy laws.",
+        "LLM or additional legal certifications."
+    ],
+    "skills": [
+        "Contract Law",
+        "Corporate Law",
+        "Compliance",
+        "Negotiation",
+        "Legal Research",
+        "Risk Management",
+        "Due Diligence"
+    ],
+    "salary_range_gbp": {
+        "min": 40000,
+        "max": 60000
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "job_title": "HR Manager",
+    "company_name": "PeopleFirst Solutions",
+    "location": "On-site – New York, USA",
+    "employment_type": "Full-time",
+    "department": "Human Resources",
+    "summary": "Seeking an HR Manager to lead talent acquisition, employee relations, and HR policy development for a fast-growing organization.",
+    "responsibilities": [
+        "Oversee recruitment, onboarding, and retention initiatives.",
+        "Develop and implement HR policies and training programs.",
+        "Manage employee relations, conflict resolution, and performance reviews.",
+        "Ensure compliance with labor laws and company standards."
+    ],
+    "requirements_must_have": [
+        "5+ years of experience in HR or related field.",
+        "Strong knowledge of labor laws and HR best practices.",
+        "Experience with HRIS and payroll systems.",
+        "Excellent communication and leadership skills."
+    ],
+    "requirements_nice_to_have": [
+        "SHRM or PHR certification.",
+        "Experience in a multinational environment.",
+        "Fluency in Spanish."
+    ],
+    "skills": [
+        "Recruitment",
+        "Employee Relations",
+        "HR Policies",
+        "Payroll",
+        "Training & Development",
+        "Conflict Resolution",
+        "HRIS"
+    ],
+    "salary_range_gbp": {
+        "min": 50000,
+        "max": 65000
+    }
+}

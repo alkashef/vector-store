@@ -1,0 +1,38 @@
+{
+    "job_title": "Teacher",
+    "company_name": "Global Academy",
+    "location": "On-site – Sydney, Australia",
+    "employment_type": "Full-time",
+    "department": "Education",
+    "summary": "We are hiring a Teacher to deliver engaging lessons, assess student progress, and contribute to curriculum development in a dynamic school environment.",
+    "responsibilities": [
+        "Plan and deliver lessons in accordance with curriculum standards.",
+        "Assess and monitor student progress and provide feedback.",
+        "Participate in staff meetings and professional development.",
+        "Support extracurricular activities and school events."
+    ],
+    "requirements_must_have": [
+        "Bachelor's degree in Education or relevant field.",
+        "Teaching certification (as per local regulations).",
+        "Strong classroom management and communication skills.",
+        "Experience with lesson planning and assessment."
+    ],
+    "requirements_nice_to_have": [
+        "Experience with digital learning tools.",
+        "Specialization in Mathematics or Science.",
+        "First Aid certification."
+    ],
+    "skills": [
+        "Teaching",
+        "Curriculum Design",
+        "Assessment",
+        "Classroom Management",
+        "Lesson Planning",
+        "Mentoring",
+        "Educational Technology"
+    ],
+    "salary_range_gbp": {
+        "min": 28000,
+        "max": 35000
+    }
+}

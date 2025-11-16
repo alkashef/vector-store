@@ -1,0 +1,38 @@
+{
+    "job_title": "Software Developer",
+    "company_name": "Iberia Digital",
+    "location": "Remote – Madrid, Spain",
+    "employment_type": "Full-time",
+    "department": "Engineering",
+    "summary": "We are looking for a Software Developer to design, develop, and maintain web and mobile applications using modern frameworks.",
+    "responsibilities": [
+        "Develop and maintain web applications using JavaScript and React.",
+        "Implement REST APIs and integrate third-party services.",
+        "Collaborate with designers and QA for product releases.",
+        "Write unit and integration tests."
+    ],
+    "requirements_must_have": [
+        "Bachelor's degree in Computer Science or related field.",
+        "2+ years of experience in software development.",
+        "Proficiency in JavaScript and React.",
+        "Experience with REST APIs and Git."
+    ],
+    "requirements_nice_to_have": [
+        "Experience with mobile app development (Flutter or React Native).",
+        "AWS or Azure certification.",
+        "Agile team experience."
+    ],
+    "skills": [
+        "JavaScript",
+        "React",
+        "REST APIs",
+        "Unit Testing",
+        "Agile",
+        "Git",
+        "Mobile Apps"
+    ],
+    "salary_range_gbp": {
+        "min": 35000,
+        "max": 50000
+    }
+}

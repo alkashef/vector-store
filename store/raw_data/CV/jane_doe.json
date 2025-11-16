@@ -1,0 +1,58 @@
+{
+    "full_name": "Jane Doe",
+    "email": "jane.doe@example.com",
+    "phone": "+1-555-234-5678",
+    "location": "New York, USA",
+    "headline": "Accountant | Financial Reporting & Analysis",
+    "summary": "Experienced accountant with 6+ years in financial reporting, budgeting, and audit for multinational firms.",
+    "experience": [
+        {
+            "title": "Senior Accountant",
+            "company": "FinTrust Inc.",
+            "location": "New York, USA",
+            "start_date": "2021-01-01",
+            "end_date": "present",
+            "responsibilities": [
+                "Prepare monthly and annual financial statements.",
+                "Lead internal and external audit processes.",
+                "Manage budgeting and forecasting activities."
+            ]
+        },
+        {
+            "title": "Accountant",
+            "company": "Global Auditors",
+            "location": "Boston, USA",
+            "start_date": "2017-06-01",
+            "end_date": "2020-12-31",
+            "responsibilities": [
+                "Reconcile accounts and process payroll.",
+                "Assist with tax preparation and filing.",
+                "Support financial analysis for management."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "BSc Accounting",
+            "institution": "Boston University",
+            "location": "Boston, USA",
+            "start_date": "2013-09-01",
+            "end_date": "2017-05-31"
+        }
+    ],
+    "skills": [
+        "Financial Reporting",
+        "Budgeting",
+        "Audit",
+        "Excel",
+        "QuickBooks",
+        "Tax Preparation",
+        "Payroll",
+        "GAAP",
+        "SAP"
+    ],
+    "certifications": [
+        "Certified Public Accountant (CPA)",
+        "Chartered Accountant (CA)"
+    ]
+}

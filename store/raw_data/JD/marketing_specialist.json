@@ -1,0 +1,38 @@
+{
+    "job_title": "Marketing Specialist",
+    "company_name": "BrightWave Media",
+    "location": "Remote – São Paulo, Brazil",
+    "employment_type": "Full-time",
+    "department": "Marketing",
+    "summary": "We are seeking a Marketing Specialist to plan and execute digital campaigns, manage brand presence, and analyze market trends.",
+    "responsibilities": [
+        "Develop and implement digital marketing strategies.",
+        "Manage social media accounts and content calendars.",
+        "Analyze campaign performance and prepare reports.",
+        "Coordinate with creative and sales teams."
+    ],
+    "requirements_must_have": [
+        "3+ years of experience in marketing or related field.",
+        "Proficiency with digital marketing tools and analytics.",
+        "Strong written and verbal communication skills.",
+        "Experience managing social media platforms."
+    ],
+    "requirements_nice_to_have": [
+        "Google Ads or HubSpot certification.",
+        "Experience with SEO/SEM.",
+        "Fluency in Portuguese and English."
+    ],
+    "skills": [
+        "Digital Marketing",
+        "Content Creation",
+        "Social Media",
+        "SEO",
+        "Analytics",
+        "Campaign Management",
+        "Copywriting"
+    ],
+    "salary_range_gbp": {
+        "min": 30000,
+        "max": 42000
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "job_title": "Data Engineer",
+    "company_name": "DataFlow Analytics",
+    "location": "Remote – Berlin, Germany",
+    "employment_type": "Full-time",
+    "department": "Data & Analytics",
+    "summary": "We are hiring a Data Engineer to build and maintain data pipelines, support analytics, and ensure data quality for our growing platform.",
+    "responsibilities": [
+        "Develop and maintain ETL pipelines using Python and SQL.",
+        "Optimize data models and support BI reporting.",
+        "Collaborate with analysts and product teams.",
+        "Document data flows and ensure data governance."
+    ],
+    "requirements_must_have": [
+        "2+ years of experience as a data engineer or similar role.",
+        "Proficiency in Python and SQL.",
+        "Experience with cloud data platforms (AWS, GCP, or Azure).",
+        "Familiarity with ETL tools and data warehousing."
+    ],
+    "requirements_nice_to_have": [
+        "Experience with Airflow or dbt.",
+        "Knowledge of ML pipelines.",
+        "Experience in Agile teams."
+    ],
+    "skills": [
+        "Python",
+        "SQL",
+        "ETL",
+        "Data Modeling",
+        "AWS",
+        "Data Warehousing",
+        "Airflow"
+    ],
+    "salary_range_gbp": {
+        "min": 40000,
+        "max": 55000
+    }
+}

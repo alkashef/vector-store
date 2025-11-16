@@ -1,0 +1,58 @@
+{
+    "full_name": "Ahmed Ali",
+    "email": "ahmed.ali@example.com",
+    "phone": "+20-2-555-3456",
+    "location": "Cairo, Egypt",
+    "headline": "HR Manager | Talent Acquisition & Development",
+    "summary": "HR professional with 10+ years of experience in recruitment, employee relations, and organizational development.",
+    "experience": [
+        {
+            "title": "HR Manager",
+            "company": "Nile Tech Solutions",
+            "location": "Cairo, Egypt",
+            "start_date": "2019-03-01",
+            "end_date": "present",
+            "responsibilities": [
+                "Lead recruitment and onboarding for all departments.",
+                "Develop and implement HR policies and training programs.",
+                "Manage employee relations and performance reviews."
+            ]
+        },
+        {
+            "title": "HR Specialist",
+            "company": "Delta Group",
+            "location": "Alexandria, Egypt",
+            "start_date": "2014-07-01",
+            "end_date": "2019-02-28",
+            "responsibilities": [
+                "Coordinate interviews and hiring processes.",
+                "Maintain HR records and payroll.",
+                "Support employee engagement initiatives."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "BA Business Administration",
+            "institution": "Cairo University",
+            "location": "Cairo, Egypt",
+            "start_date": "2009-09-01",
+            "end_date": "2013-06-30"
+        }
+    ],
+    "skills": [
+        "Recruitment",
+        "Employee Relations",
+        "Training & Development",
+        "Payroll",
+        "HR Policies",
+        "Performance Management",
+        "Onboarding",
+        "Conflict Resolution",
+        "HRIS"
+    ],
+    "certifications": [
+        "SHRM Certified Professional (SHRM-CP)",
+        "Professional in Human Resources (PHR)"
+    ]
+}

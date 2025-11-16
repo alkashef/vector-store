@@ -1,0 +1,58 @@
+{
+    "full_name": "Carlos Silva",
+    "email": "carlos.silva@example.com",
+    "phone": "+55-11-555-6789",
+    "location": "São Paulo, Brazil",
+    "headline": "Marketing Specialist | Digital & Brand Strategy",
+    "summary": "Marketing professional with 5+ years of experience in digital campaigns, brand management, and content creation.",
+    "experience": [
+        {
+            "title": "Marketing Specialist",
+            "company": "LatAm Brands",
+            "location": "São Paulo, Brazil",
+            "start_date": "2021-06-01",
+            "end_date": "present",
+            "responsibilities": [
+                "Plan and execute digital marketing campaigns.",
+                "Manage social media and brand partnerships.",
+                "Analyze campaign performance and optimize ROI."
+            ]
+        },
+        {
+            "title": "Marketing Assistant",
+            "company": "Agencia Nova",
+            "location": "Rio de Janeiro, Brazil",
+            "start_date": "2018-01-01",
+            "end_date": "2021-05-31",
+            "responsibilities": [
+                "Support event planning and promotions.",
+                "Create content for blogs and newsletters.",
+                "Assist with market research and competitor analysis."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "BA Marketing",
+            "institution": "University of São Paulo",
+            "location": "São Paulo, Brazil",
+            "start_date": "2014-02-01",
+            "end_date": "2017-12-31"
+        }
+    ],
+    "skills": [
+        "Digital Marketing",
+        "Brand Management",
+        "Content Creation",
+        "Social Media",
+        "SEO",
+        "Google Analytics",
+        "Campaign Management",
+        "Copywriting",
+        "Market Research"
+    ],
+    "certifications": [
+        "Google Ads Certification",
+        "HubSpot Content Marketing"
+    ]
+}

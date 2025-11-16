@@ -1,0 +1,58 @@
+{
+    "full_name": "Sofia Rossi",
+    "email": "sofia.rossi@example.com",
+    "phone": "+39-06-555-2345",
+    "location": "Rome, Italy",
+    "headline": "Nurse | Patient Care & Clinical Support",
+    "summary": "Registered nurse with 5+ years of experience providing patient care in hospital and outpatient settings across Italy.",
+    "experience": [
+        {
+            "title": "Registered Nurse",
+            "company": "San Giovanni Hospital",
+            "location": "Rome, Italy",
+            "start_date": "2021-04-01",
+            "end_date": "present",
+            "responsibilities": [
+                "Administer medications and monitor patient vitals.",
+                "Coordinate with doctors and healthcare teams.",
+                "Educate patients and families on care plans."
+            ]
+        },
+        {
+            "title": "Staff Nurse",
+            "company": "Clinica Medica Milano",
+            "location": "Milan, Italy",
+            "start_date": "2018-01-01",
+            "end_date": "2021-03-31",
+            "responsibilities": [
+                "Assist in surgeries and emergency care.",
+                "Maintain patient records and documentation.",
+                "Support infection control and hygiene protocols."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "BSc Nursing",
+            "institution": "Sapienza University of Rome",
+            "location": "Rome, Italy",
+            "start_date": "2013-09-01",
+            "end_date": "2017-07-31"
+        }
+    ],
+    "skills": [
+        "Patient Care",
+        "Clinical Support",
+        "Medication Administration",
+        "Emergency Care",
+        "Teamwork",
+        "Patient Education",
+        "Infection Control",
+        "Documentation",
+        "Vital Signs Monitoring"
+    ],
+    "certifications": [
+        "Registered Nurse (Italy)",
+        "Basic Life Support (BLS)"
+    ]
+}
